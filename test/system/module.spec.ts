@@ -18,8 +18,8 @@ describe('module E2E test', () => {
     nuxt = new Nuxt(config)
 
     const createNuxt = async () => {
-      // await new Builder(nuxt).build()
-      // await nuxt.listen(3000)
+      await new Builder(nuxt).build()
+      await nuxt.listen(3000)
     }
     const createBrowser = async () => {
       browser = await puppeteer.launch({
