@@ -72,7 +72,7 @@ export default {
 ## Development
 
 ```bash
-$ git clone https://github.com/HANATANI Takuma/nuxt-dayjs-module.git
+$ git clone https://github.com/potato4d/nuxt-dayjs-module.git
 $ cd nuxt-dayjs-module
 $ yarn
 ```
