@@ -3,7 +3,7 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![donate: Patreon](https://img.shields.io/badge/donate-patreon-orange.svg?style=flat-square)](https://www.patreon.com/potato4d)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![NPM version](https://img.shields.io/npm/v/nuxt-dayjs-module.svg?style=flat)](https://npmjs.com/package/nuxt-dayjs-module)
+[![NPM version](https://img.shields.io/npm/v/nuxt-dayjs-module-blue.svg?style=flat-square)](https://npmjs.com/package/nuxt-dayjs-module)
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 [![NPM downloads](https://img.shields.io/npm/dm/nuxt-dayjs-module.svg?style=flat)](https://npmjs.com/package/nuxt-dayjs-module)
 [![codecov](https://codecov.io/gh/potato4d/nuxt-dayjs-module/branch/master/graph/badge.svg)](https://codecov.io/gh/potato4d/nuxt-dayjs-module)
