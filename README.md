@@ -10,6 +10,53 @@ $ yarn add nuxt-dayjs-module # or npm install
 
 ## Usage
 
+### 1. Register dayjs module to your Nuxt Application
+
+```js
+export default {
+  // ...
+  modules: [
+    'nuxt-dayjs-module'
+  ],
+  // ...
+}
+```
+
+### 2. Use $dayjs on Context, Vue instance
+
+with Context
+
+```html
+<script>
+export default {
+  asyncData({ $dayjs }) {
+    return {
+      now: $dayjs().format('YYYY/MM/DD')
+    }
+  }
+}
+</script>
+```
+
+with Vue instance
+
+```html
+<script>
+export default {
+  data() {
+    return {
+      latestClicked: null
+    }
+  },
+  methods: {
+    handleClickButton() {
+      this.latestClicked = this.$dayjs().format('YYYY/MM/DD')
+    }
+  }
+}
+</script>
+```
+
 ## Development
 
 ```bash
