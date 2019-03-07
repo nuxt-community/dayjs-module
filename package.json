@@ -1,0 +1,47 @@
+{
+  "name": "nuxt-dayjs-module",
+  "version": "0.1.0",
+  "description": "My supreme Nuxt.js project",
+  "author": {
+    "name": "HANATANI Takuma"
+  },
+  "keywords": [
+    "vue",
+    "nuxt",
+    "nuxt.js"
+  ],
+  "main": "lib/module.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt test/fixture",
+    "test": "NODE_ENV=test jest",
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test:unit": "NODE_ENV=test jest --testRegex \"/test/unit/(.+)\\.test\\.js$\"",
+    "test:system": "NODE_ENV=test jest --testRegex \"/test/system/(.+)\\.test\\.js$\"",
+    "test:coverage": "NODE_ENV=test yarn test --coverage",
+    "format": "prettier './**/*.{js,ts,json,vue}' --write"
+  },
+  "devDependencies": {
+    "@types/consola": "^1.0.0",
+    "@types/jest": "^23.3.13",
+    "@types/jsdom": "^12.2.1",
+    "@types/node": "^10.12.21",
+    "jest": "^23.4.1",
+    "nuxt": "^2.4.0",
+    "prettier": "^1.16.1",
+    "puppeteer": "^1.6.1",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.4"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "lib/**/*.{js,jsx}"
+    ]
+  },
+  "dependencies": {
+    "consola": "^2.3.2",
+    "dayjs": "^1.8.9"
+  }
+}
