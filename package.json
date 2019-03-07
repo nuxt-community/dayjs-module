@@ -23,18 +23,18 @@
     "format": "prettier './**/*.{js,ts,json,vue}' --write"
   },
   "devDependencies": {
-    "@types/consola": "^1.0.0",
-    "@types/jest": "^23.3.13",
-    "@types/jsdom": "^12.2.1",
-    "@types/node": "^10.12.21",
-    "codecov": "^3.2.0",
-    "jest": "^23.4.1",
-    "nuxt": "^2.4.0",
-    "prettier": "^1.16.1",
-    "puppeteer": "^1.6.1",
-    "standard-version": "^5.0.1",
-    "ts-jest": "^23.10.5",
-    "typescript": "^3.2.4"
+    "@types/consola": "1.0.0",
+    "@types/jest": "23.3.14",
+    "@types/jsdom": "12.2.3",
+    "@types/node": "10.12.30",
+    "codecov": "3.2.0",
+    "jest": "23.6.0",
+    "nuxt": "2.4.5",
+    "prettier": "1.16.4",
+    "puppeteer": "1.13.0",
+    "standard-version": "5.0.1",
+    "ts-jest": "23.10.5",
+    "typescript": "3.3.3333"
   },
   "jest": {
     "testEnvironment": "node",
