@@ -1,9 +1,9 @@
 {
   "name": "nuxt-dayjs-module",
   "version": "0.1.0",
-  "description": "My supreme Nuxt.js project",
+  "description": "The best way for use Day.js easily in your Nuxt.js project.",
   "author": {
-    "name": "HANATANI Takuma"
+    "name": "HANATANI Takuma(@potato4d)"
   },
   "keywords": [
     "vue",
@@ -41,6 +41,7 @@
     ]
   },
   "dependencies": {
+    "@types/puppeteer": "^1.12.1",
     "consola": "^2.3.2",
     "dayjs": "^1.8.9"
   }

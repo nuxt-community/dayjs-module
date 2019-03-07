@@ -1,6 +1,6 @@
-import config from '../fixture/nuxt.config'
+const config = require('../fixture/nuxt.config.js')
+import puppeteer from 'puppeteer'
 
-const puppeteer = require('puppeteer')
 const request = require('request-promise-native')
 const { Nuxt, Builder } = require('nuxt')
 
@@ -11,8 +11,8 @@ jest.setTimeout(10000)
 
 describe('module E2E test', () => {
   let nuxt: any
-  let page
-  let browser: any
+  let page: puppeteer.Page
+  let browser: puppeteer.Browser
 
   beforeAll(async () => {
     nuxt = new Nuxt(config)
@@ -36,8 +36,12 @@ describe('module E2E test', () => {
     await nuxt.close()
   })
 
-  test('WIP', () => {
-    // TODO: write test
-    expect(true).toBe(true)
+  test('can use Day.js', async () => {
+    expect.assertions(1)
+    await page.goto(url('/'))
+    const el = await page.$('[data-test-id="birthday"]')
+    const textContent = await el!.getProperty('textContent')
+    const value = await textContent.jsonValue()
+    return expect(value).toBe('1998/04/13')
   })
 })
