@@ -21,6 +21,7 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
 
+      - run: yarn build
       - run: NODE_ENV=test yarn test:coverage
       - run: yarn codecov
       - store_artifacts:
