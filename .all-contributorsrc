@@ -6,8 +6,23 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 60,
+  "imageSize": 100,
   "commit": false,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "potato4d",
+      "name": "Takuma HANATANI(@potato4d)",
+      "avatar_url": "https://github.com/potato4d.png",
+      "profile": "https://potato4d.me",
+      "contributions": [
+        "code",
+        "bug",
+        "doc",
+        "example",
+        "question",
+        "review"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
