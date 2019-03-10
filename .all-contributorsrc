@@ -1,0 +1,13 @@
+{
+  "projectName": "nuxt-dayjs-module",
+  "projectOwner": "potato4d",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 60,
+  "commit": false,
+  "contributors": [],
+  "contributorsPerLine": 7
+}
