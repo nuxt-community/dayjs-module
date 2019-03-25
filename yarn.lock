@@ -1230,10 +1230,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.10.5.tgz#fbaca34086bdc118011e1f05c47688d432f2d571"
   integrity sha512-DuIRlQbX4K+d5I+GMnv+UfnGh+ist0RdlvOp+JZ7ePJ6KQONCFQv/gKYSU1ZzbVdFSUCKZOltjmpFAGGv5MdYA==
 
-"@types/node@10.14.2":
-  version "10.14.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.14.2.tgz#0c4d73f10a8f7093cdb634ee79dd59a609114c7b"
-  integrity sha512-Y1kCfTShKcJH4CsG5+m5RMA+0tQKa8TrxyMczy0zE8QeDKbuOAJMF8JRM5ouCFyakaSoAhhgy2beCSKLVz+daw==
+"@types/node@10.14.4":
+  version "10.14.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.14.4.tgz#1c586b991457cbb58fef51bc4e0cfcfa347714b5"
+  integrity sha512-DT25xX/YgyPKiHFOpNuANIQIVvYEwCWXgK2jYYwqgaMrYE6+tq+DtmMwlD3drl6DJbUwtlIDnn0d7tIn/EbXBg==
 
 "@types/puppeteer@^1.12.1":
   version "1.12.1"
