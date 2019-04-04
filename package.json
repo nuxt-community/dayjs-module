@@ -27,6 +27,7 @@
     "@types/jest": "24.0.11",
     "@types/jsdom": "12.2.3",
     "@types/node": "10.14.4",
+    "@types/puppeteer": "^1.12.1",
     "all-contributors-cli": "6.2.0",
     "codecov": "3.2.0",
     "jest": "24.5.0",
@@ -44,7 +45,6 @@
     ]
   },
   "dependencies": {
-    "@types/puppeteer": "^1.12.1",
     "consola": "^2.3.2",
     "dayjs": "^1.8.9"
   }
