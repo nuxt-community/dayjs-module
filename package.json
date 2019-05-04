@@ -36,7 +36,7 @@
     "puppeteer": "1.14.0",
     "standard-version": "5.0.2",
     "ts-jest": "24.0.1",
-    "typescript": "3.4.1"
+    "typescript": "3.4.5"
   },
   "jest": {
     "testEnvironment": "node",
