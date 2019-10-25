@@ -2,4 +2,4 @@
 coverage/
 dist/
 lib/
-src/plugin.ts
+src/plugin.js

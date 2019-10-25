@@ -11,12 +11,17 @@
 export default {
   asyncData(context) {
     return {
-      myBirthDay: context.$dayjs('1998-04-13').locale('ja').format('YYYY/MM/DD(dddd)')
+      myBirthDay: context
+        .$dayjs('1998-04-13')
+        .locale('ja')
+        .format('YYYY/MM/DD(dddd)')
     }
   },
   methods: {
     handleChangeBirthDayToBro() {
-      this.myBirthDay = this.$dayjs('1995-12-18').locale('ja').format('YYYY/MM/DD(dddd)')
+      this.myBirthDay = this.$dayjs('1995-12-18')
+        .locale('ja')
+        .format('YYYY/MM/DD(dddd)')
     }
   }
 }
