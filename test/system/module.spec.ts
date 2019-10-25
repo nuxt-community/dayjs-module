@@ -23,9 +23,7 @@ describe('module E2E test', () => {
     }
     const createBrowser = async () => {
       browser = await puppeteer.launch({
-        args: [
-          '--no-sandbox'
-        ],
+        args: ['--no-sandbox'],
         headless: process.env.NODE_ENV !== 'development',
         timeout: 0
       })
@@ -52,5 +50,20 @@ describe('module E2E test', () => {
     const newTextContent = await el!.getProperty('textContent')
     const newValue = await newTextContent.jsonValue()
     return expect(newValue).toBe('1995/12/18')
+  })
+
+  test('support locale', async () => {
+    expect.assertions(2)
+    await page.goto(url('/locale'))
+    const el = await page.$('[data-test-id="birthday"]')
+    const textContent = await el!.getProperty('textContent')
+    const value = await textContent.jsonValue()
+    expect(value).toBe('1998/04/13(月曜日)')
+
+    const button = await page.$('button')
+    await button!.click()
+    const newTextContent = await el!.getProperty('textContent')
+    const newValue = await newTextContent.jsonValue()
+    return expect(newValue).toBe('1995/12/18(月曜日)')
   })
 })
