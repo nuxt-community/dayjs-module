@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/potato4d/nuxt-dayjs-module/compare/v1.0.0...v1.1.0) (2019-10-25)
+
+
+### Features
+
+* **types:** Enhance context types ([8110c51](https://github.com/potato4d/nuxt-dayjs-module/commit/8110c51e4ed2a722c21900b8f91c488e9aed61fd))
+
 ## [1.0.0](https://github.com/potato4d/nuxt-dayjs-module/compare/v0.1.2...v1.0.0) (2019-10-25)
 
 
