@@ -30,6 +30,12 @@ export default {
   modules: [
     'nuxt-dayjs-module'
   ],
+
+  // Optional
+  dayjs: {
+    locales: ['en', 'ja'],
+    defaultLocale: 'en'
+  }
   // ...
 }
 ```
