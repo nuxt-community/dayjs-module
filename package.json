@@ -11,12 +11,11 @@
     "nuxt.js"
   ],
   "main": "lib/module.js",
+  "types": "lib/module.d.ts",
   "license": "MIT",
   "scripts": {
     "dev": "nuxt test/fixture",
     "test": "NODE_ENV=test jest",
-    "build": "tsc",
-    "watch": "tsc --watch",
     "test:unit": "NODE_ENV=test jest --testRegex \"/test/unit/(.+)\\.test\\.js$\"",
     "test:system": "NODE_ENV=test jest --testRegex \"/test/system/(.+)\\.test\\.js$\"",
     "test:coverage": "NODE_ENV=test yarn test --coverage",
@@ -46,7 +45,6 @@
   },
   "dependencies": {
     "consola": "^2.3.2",
-    "dayjs": "^1.8.9",
-    "lodash.merge": "^4.6.2"
+    "dayjs": "^1.8.9"
   }
 }

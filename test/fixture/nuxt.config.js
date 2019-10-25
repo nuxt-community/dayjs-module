@@ -1,6 +1,6 @@
 const resolve = require('path').resolve
 
-export default {
+module.exports = {
   rootDir: resolve(__dirname, '../..'),
   srcDir: __dirname,
   modules: ['~/../../lib/module.js'],
