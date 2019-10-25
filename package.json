@@ -11,12 +11,11 @@
     "nuxt.js"
   ],
   "main": "lib/module.js",
+  "types": "lib/module.d.ts",
   "license": "MIT",
   "scripts": {
     "dev": "nuxt test/fixture",
     "test": "NODE_ENV=test jest",
-    "build": "tsc",
-    "watch": "tsc --watch",
     "test:unit": "NODE_ENV=test jest --testRegex \"/test/unit/(.+)\\.test\\.js$\"",
     "test:system": "NODE_ENV=test jest --testRegex \"/test/system/(.+)\\.test\\.js$\"",
     "test:coverage": "NODE_ENV=test yarn test --coverage",
@@ -29,8 +28,8 @@
     "@types/node": "10.17.0",
     "@types/puppeteer": "1.20.2",
     "all-contributors-cli": "6.9.3",
-    "jest": "24.9.0",
     "codecov": "3.6.1",
+    "jest": "24.9.0",
     "nuxt": "2.10.2",
     "prettier": "1.18.2",
     "puppeteer": "2.0.0",
