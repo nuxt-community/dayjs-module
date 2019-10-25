@@ -1,6 +1,13 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [1.0.0](https://github.com/potato4d/nuxt-dayjs-module/compare/v0.1.2...v1.0.0) (2019-10-25)
+
+
+### Features
+
+* Add locale support option ([6f7b6b6](https://github.com/potato4d/nuxt-dayjs-module/commit/6f7b6b6f19d4faef0080af70ff8e464ca66cf8cd))
 
 ## [0.1.2](https://github.com/potato4d/nuxt-dayjs-module/compare/v0.1.1...v0.1.2) (2019-03-10)
 
