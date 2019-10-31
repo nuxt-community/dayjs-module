@@ -1292,10 +1292,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.11.7.tgz#57682a9771a3f7b09c2497f28129a0462966524a"
   integrity sha512-JNbGaHFCLwgHn/iCckiGSOZ1XYHsKFwREtzPwSGCVld1SGhOlmZw2D4ZI94HQCrBHbADzW9m4LER/8olJTRGHA==
 
-"@types/node@10.17.1":
-  version "10.17.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.1.tgz#3d466599f7afbc2abb8c2fabc29f8f010971b8d7"
-  integrity sha512-dmH8Nm4/uO6SQ8jhP75qFi/kVq7xrR+Ujo30HGHaVn2zd/a82m1hHAHoP537ENFTjhv+qSP+5mPCWuyuav45xg==
+"@types/node@10.17.2":
+  version "10.17.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.2.tgz#41b5afbcde1a5a805302a4da3cf399499f1bbf64"
+  integrity sha512-sAh60KDol+MpwOr1RTK0+HgBEYejKsxdpmrOS1Wts5bI03dLzq8F7T0sRXDKeaEK8iWDlGfdzxrzg6vx/c5pNA==
 
 "@types/optimize-css-assets-webpack-plugin@^5.0.1":
   version "5.0.1"
