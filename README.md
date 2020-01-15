@@ -1,12 +1,12 @@
-# nuxt-dayjs-module
+# @nuxtjs/dayjs
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![donate: Patreon](https://img.shields.io/badge/donate-patreon-orange.svg?style=flat-square)](https://www.patreon.com/potato4d)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![NPM version](https://img.shields.io/npm/v/nuxt-dayjs-module.svg?style=flat-square)](https://npmjs.com/package/nuxt-dayjs-module)
+[![NPM version](https://img.shields.io/npm/v/@nuxtjs/dayjs.svg?style=flat-square)](https://npmjs.com/package/@nuxtjs/dayjs)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-[![NPM downloads](https://img.shields.io/npm/dm/nuxt-dayjs-module.svg?style=flat)](https://npmjs.com/package/nuxt-dayjs-module)
-[![codecov](https://codecov.io/gh/potato4d/nuxt-dayjs-module/branch/master/graph/badge.svg)](https://codecov.io/gh/potato4d/nuxt-dayjs-module)
+[![NPM downloads](https://img.shields.io/npm/dm/@nuxtjs/dayjs.svg?style=flat)](https://npmjs.com/package/@nuxtjs/dayjs)
+[![codecov](https://codecov.io/gh/nuxt-community/dayjs-module/branch/master/graph/badge.svg)](https://codecov.io/gh/nuxt-community/dayjs-module)
 
 > The best way for use Day.js easily in your Nuxt.js project.
 
@@ -17,7 +17,7 @@
 ## Installation
 
 ```bash
-$ yarn add nuxt-dayjs-module # or npm install
+$ yarn add @nuxtjs/dayjs # or npm install
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ $ yarn add nuxt-dayjs-module # or npm install
 export default {
   // ...
   modules: [
-    'nuxt-dayjs-module'
+    '@nuxtjs/dayjs'
   ],
 
   // Optional
@@ -78,8 +78,8 @@ export default {
 ## Development
 
 ```bash
-$ git clone https://github.com/potato4d/nuxt-dayjs-module.git
-$ cd nuxt-dayjs-module
+$ git clone https://github.com/nuxt-community/dayjs-module.git
+$ cd @nuxtjs/dayjs
 $ yarn
 ```
 
@@ -97,7 +97,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://potato4d.me"><img src="https://github.com/potato4d.png" width="100px;" alt="Takuma HANATANI(@potato4d)"/><br /><sub><b>Takuma HANATANI(@potato4d)</b></sub></a><br /><a href="https://github.com/potato4d/nuxt-dayjs-module/commits?author=potato4d" title="Code">💻</a> <a href="https://github.com/potato4d/nuxt-dayjs-module/issues?q=author%3Apotato4d" title="Bug reports">🐛</a> <a href="https://github.com/potato4d/nuxt-dayjs-module/commits?author=potato4d" title="Documentation">📖</a> <a href="#example-potato4d" title="Examples">💡</a> <a href="#question-potato4d" title="Answering Questions">💬</a> <a href="#review-potato4d" title="Reviewed Pull Requests">👀</a></td></tr></table>
+<table><tr><td align="center"><a href="https://potato4d.me"><img src="https://github.com/potato4d.png" width="100px;" alt="Takuma HANATANI(@potato4d)"/><br /><sub><b>Takuma HANATANI(@potato4d)</b></sub></a><br /><a href="https://github.com/nuxt-community/dayjs-module/commits?author=potato4d" title="Code">💻</a> <a href="https://github.com/nuxt-community/dayjs-module/issues?q=author%3Apotato4d" title="Bug reports">🐛</a> <a href="https://github.com/nuxt-community/dayjs-module/commits?author=potato4d" title="Documentation">📖</a> <a href="#example-potato4d" title="Examples">💡</a> <a href="#question-potato4d" title="Answering Questions">💬</a> <a href="#review-potato4d" title="Reviewed Pull Requests">👀</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

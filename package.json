@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-dayjs-module",
+  "name": "@nuxtjs/dayjs",
   "version": "1.1.2",
   "description": "The best way for use Day.js easily in your Nuxt.js project.",
   "author": {
@@ -22,21 +22,21 @@
     "format": "prettier './**/*.{js,ts,json,vue}' --write"
   },
   "devDependencies": {
-    "@nuxt/types": "0.6.0",
+    "@nuxt/types": "0.7.5",
     "@types/consola": "1.0.0",
-    "@types/jest": "24.0.25",
-    "@types/jsdom": "12.2.4",
-    "@types/node": "10.17.13",
-    "@types/puppeteer": "2.0.0",
-    "all-contributors-cli": "6.12.0",
-    "codecov": "3.6.1",
-    "jest": "24.9.0",
-    "nuxt": "2.11.0",
-    "prettier": "1.19.1",
-    "puppeteer": "2.0.0",
-    "standard-version": "7.0.1",
-    "ts-jest": "24.3.0",
-    "typescript": "3.7.4"
+    "@types/jest": "25.2.1",
+    "@types/jsdom": "16.2.1",
+    "@types/node": "10.17.21",
+    "@types/puppeteer": "2.1.0",
+    "all-contributors-cli": "6.14.2",
+    "codecov": "3.6.5",
+    "jest": "25.2.7",
+    "nuxt": "2.12.2",
+    "prettier": "2.0.5",
+    "puppeteer": "3.0.4",
+    "standard-version": "8.0.0",
+    "ts-jest": "25.5.1",
+    "typescript": "3.9.2"
   },
   "jest": {
     "testEnvironment": "node",
