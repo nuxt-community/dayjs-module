@@ -22,7 +22,7 @@
     "format": "prettier './**/*.{js,ts,json,vue}' --write"
   },
   "devDependencies": {
-    "@nuxt/types": "0.6.4",
+    "@nuxt/types": "0.7.0",
     "@types/consola": "1.0.0",
     "@types/jest": "25.1.4",
     "@types/jsdom": "16.1.1",
