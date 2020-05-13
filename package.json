@@ -16,15 +16,15 @@
   "scripts": {
     "dev": "nuxt test/fixture",
     "test": "NODE_ENV=test jest",
-    "test:unit": "NODE_ENV=test jest --testRegex \"/test/unit/(.+)\\.test\\.js$\"",
     "test:system": "NODE_ENV=test jest --testRegex \"/test/system/(.+)\\.test\\.js$\"",
     "test:coverage": "NODE_ENV=test yarn test --coverage",
     "format": "prettier './**/*.{js,ts,json,vue}' --write"
   },
   "devDependencies": {
     "@nuxt/types": "0.7.5",
+    "@nuxtjs/module-test-utils": "^1.6.1",
     "@types/consola": "1.0.0",
-    "@types/jest": "25.2.1",
+    "@types/jest": "^25.2.1",
     "@types/jsdom": "16.2.1",
     "@types/node": "10.17.21",
     "@types/puppeteer": "2.1.0",
@@ -45,6 +45,7 @@
     ]
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "consola": "^2.3.2",
     "dayjs": "^1.8.9"
   }
