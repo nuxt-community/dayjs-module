@@ -2,34 +2,34 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.1.2](https://github.com/potato4d/nuxt-dayjs-module/compare/v1.1.1...v1.1.2) (2020-01-07)
+### [1.1.2](https://github.com/nuxt-community/dayjs-module/compare/v1.1.1...v1.1.2) (2020-01-07)
 
-### [1.1.1](https://github.com/potato4d/nuxt-dayjs-module/compare/v1.1.0...v1.1.1) (2019-10-27)
+### [1.1.1](https://github.com/nuxt-community/dayjs-module/compare/v1.1.0...v1.1.1) (2019-10-27)
 
-## [1.1.0](https://github.com/potato4d/nuxt-dayjs-module/compare/v1.0.0...v1.1.0) (2019-10-25)
-
-
-### Features
-
-* **types:** Enhance context types ([8110c51](https://github.com/potato4d/nuxt-dayjs-module/commit/8110c51e4ed2a722c21900b8f91c488e9aed61fd))
-
-## [1.0.0](https://github.com/potato4d/nuxt-dayjs-module/compare/v0.1.2...v1.0.0) (2019-10-25)
+## [1.1.0](https://github.com/nuxt-community/dayjs-module/compare/v1.0.0...v1.1.0) (2019-10-25)
 
 
 ### Features
 
-* Add locale support option ([6f7b6b6](https://github.com/potato4d/nuxt-dayjs-module/commit/6f7b6b6f19d4faef0080af70ff8e464ca66cf8cd))
+* **types:** Enhance context types ([8110c51](https://github.com/nuxt-community/dayjs-module/commit/8110c51e4ed2a722c21900b8f91c488e9aed61fd))
 
-## [0.1.2](https://github.com/potato4d/nuxt-dayjs-module/compare/v0.1.1...v0.1.2) (2019-03-10)
+## [1.0.0](https://github.com/nuxt-community/dayjs-module/compare/v0.1.2...v1.0.0) (2019-10-25)
+
+
+### Features
+
+* Add locale support option ([6f7b6b6](https://github.com/nuxt-community/dayjs-module/commit/6f7b6b6f19d4faef0080af70ff8e464ca66cf8cd))
+
+## [0.1.2](https://github.com/nuxt-community/dayjs-module/compare/v0.1.1...v0.1.2) (2019-03-10)
 
 
 
-## [0.1.1](https://github.com/potato4d/nuxt-dayjs-module/compare/v0.1.0...v0.1.1) (2019-03-07)
+## [0.1.1](https://github.com/nuxt-community/dayjs-module/compare/v0.1.0...v0.1.1) (2019-03-07)
 
 
 ### Bug Fixes
 
-* Fix test bug ([b18f558](https://github.com/potato4d/nuxt-dayjs-module/commit/b18f558))
+* Fix test bug ([b18f558](https://github.com/nuxt-community/dayjs-module/commit/b18f558))
 
 
 
@@ -38,4 +38,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* Implement main function ([856d454](https://github.com/potato4d/nuxt-dayjs-module/commit/856d454))
+* Implement main function ([856d454](https://github.com/nuxt-community/dayjs-module/commit/856d454))
