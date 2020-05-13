@@ -6,6 +6,6 @@ module.exports = {
   modules: ['~/../../lib/module.js'],
   dev: process.env.NODE_ENV !== 'test' && process.env.NODE_ENV === 'production',
   dayjs: {
-    locales: ['ja']
-  }
+    locales: ['ja'],
+  },
 }
