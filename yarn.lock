@@ -1593,7 +1593,7 @@
     webpack-node-externals "^1.7.2"
     webpackbar "^4.0.0"
 
-"@nuxtjs/module-test-utils@^1.6.1":
+"@nuxtjs/module-test-utils@1.6.1":
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/@nuxtjs/module-test-utils/-/module-test-utils-1.6.1.tgz#14c80e4cc18fa87a12115a5e100daec17169a1b7"
   integrity sha512-uNWp0AXYkBIcOejpYgZ4A4ZAoZB+Lmpb8HcITgZVswETirwtdzUGKodRyrmkK4EK7Esm+NAA++HtfMi0qB0Ghw==
@@ -1789,7 +1789,7 @@
     "@types/istanbul-lib-coverage" "*"
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@^25.2.1":
+"@types/jest@25.2.1":
   version "25.2.1"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-25.2.1.tgz#9544cd438607955381c1bdbdb97767a249297db5"
   integrity sha512-msra1bCaAeEdkSyA0CZ6gW1ukMIvZ5YoJkdXw/qhQdsuuDlFTcEUrUw8CLCPt2rVRUfXlClVvK2gvPs9IokZaA==
