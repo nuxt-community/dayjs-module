@@ -14,7 +14,7 @@ export default {
       myBirthDay: context
         .$dayjs('1998-04-13')
         .locale('ja')
-        .format('YYYY/MM/DD(dddd)')
+        .format('YYYY/MM/DD(dddd)'),
     }
   },
   methods: {
@@ -22,7 +22,7 @@ export default {
       this.myBirthDay = this.$dayjs('1995-12-18')
         .locale('ja')
         .format('YYYY/MM/DD(dddd)')
-    }
-  }
+    },
+  },
 }
 </script>
