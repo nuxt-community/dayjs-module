@@ -29,7 +29,7 @@
     "@types/node": "10.17.24",
     "@types/puppeteer": "2.1.0",
     "all-contributors-cli": "6.15.0",
-    "codecov": "3.6.5",
+    "codecov": "3.7.0",
     "jest": "25.2.7",
     "nuxt": "2.12.2",
     "prettier": "2.0.5",
