@@ -28,7 +28,7 @@
     "@types/jsdom": "16.2.3",
     "@types/node": "10.17.24",
     "@types/puppeteer": "3.0.0",
-    "all-contributors-cli": "6.15.0",
+    "all-contributors-cli": "6.16.0",
     "codecov": "3.7.0",
     "jest": "25.2.7",
     "nuxt": "2.12.2",
