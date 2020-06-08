@@ -11,7 +11,7 @@
     "nuxt.js"
   ],
   "main": "lib/module.js",
-  "types": "lib/module.d.ts",
+  "types": "index.d.ts",
   "license": "MIT",
   "scripts": {
     "dev": "nuxt test/fixture",
