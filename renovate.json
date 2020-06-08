@@ -1,3 +1,7 @@
 {
-  "extends": ["config:base"]
+  "extends": ["config:base"],
+  "schedule": ["every weekend"],
+  "patch": {
+    "automerge": true
+  }
 }
