@@ -75,6 +75,23 @@ export default {
 </script>
 ```
 
+### For Typescript users
+
+Add the types to your `"types"` array in `tsconfig.json` after the `@nuxt/types` entry.
+
+#### tsconfig.json
+
+```json
+{
+  "compilerOptions": {
+    "types": [
+      "@nuxt/types",
+      "@nuxtjs/dayjs"
+    ]
+  }
+}
+```
+
 ## Development
 
 ```bash
