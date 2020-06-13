@@ -21,7 +21,7 @@
     "format": "prettier './**/*.{js,ts,json,vue}' --write"
   },
   "devDependencies": {
-    "@nuxt/types": "0.7.8",
+    "@nuxt/types": "0.7.9",
     "@nuxtjs/module-test-utils": "1.6.1",
     "@types/consola": "1.0.0",
     "@types/jest": "25.2.3",
