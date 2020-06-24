@@ -33,7 +33,7 @@
     "jest": "25.2.7",
     "nuxt": "2.12.2",
     "prettier": "2.0.5",
-    "puppeteer": "3.3.0",
+    "puppeteer": "4.0.1",
     "standard-version": "8.0.0",
     "ts-jest": "26.1.0",
     "typescript": "3.9.5"
