@@ -34,7 +34,7 @@
     "nuxt": "2.12.2",
     "prettier": "2.0.5",
     "puppeteer": "3.3.0",
-    "standard-version": "8.0.0",
+    "standard-version": "8.0.1",
     "ts-jest": "26.1.1",
     "typescript": "3.9.6"
   },
