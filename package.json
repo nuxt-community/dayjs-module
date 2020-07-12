@@ -31,7 +31,7 @@
     "all-contributors-cli": "6.16.1",
     "codecov": "3.7.0",
     "jest": "25.2.7",
-    "nuxt": "2.12.2",
+    "nuxt": "2.13.3",
     "prettier": "2.0.5",
     "puppeteer": "3.3.0",
     "standard-version": "8.0.1",
