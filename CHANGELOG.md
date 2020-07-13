@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.8](https://github.com/nuxt-community/dayjs-module/compare/v0.1.2...v1.1.8) (2020-07-13)
+
+
+### Features
+
+* **types:** Enhance context types ([9719a17](https://github.com/nuxt-community/dayjs-module/commit/9719a1792e7356b3e26e39b1beeba30516f6a1ca))
+* Add locale support option ([046158b](https://github.com/nuxt-community/dayjs-module/commit/046158b3e1761d76fe84a57ad588c0d61e13e308))
+
 ### [1.1.7](https://github.com/nuxt-community/dayjs-module/compare/v1.1.6...v1.1.7) (2020-06-08)
 
 ### [1.1.6](https://github.com/nuxt-community/dayjs-module/compare/v1.1.5...v1.1.6) (2020-06-08)
