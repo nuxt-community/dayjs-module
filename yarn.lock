@@ -2481,10 +2481,10 @@ ajv@^6.12.2:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-all-contributors-cli@6.16.1:
-  version "6.16.1"
-  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-6.16.1.tgz#a08ff137df63a22a6f6bf20a8df3fdf79b1b6ca8"
-  integrity sha512-8Hu4vHwW8VF28EBmgCpyfleOG8jCU0RB5sEFMuHzIKy8lUidV2Qo/1GfQ1b78ekB4mYMgdMvfDJd5IKtfzUeGg==
+all-contributors-cli@6.17.3:
+  version "6.17.3"
+  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-6.17.3.tgz#d8f2e0a81f85322e78caa4ee5ac42237e4e5667d"
+  integrity sha512-kRyGpk+i9LAxOvbCGorJK4fVXphvfS5cABlNGqeKLUbKF5QZEviwhfqb2ZpFXW90OJpjKNEQ3JQ4r9cwesXHqw==
   dependencies:
     "@babel/runtime" "^7.7.6"
     async "^3.0.1"
@@ -2493,8 +2493,8 @@ all-contributors-cli@6.16.1:
     inquirer "^7.0.4"
     json-fixer "^1.5.1"
     lodash "^4.11.2"
+    node-fetch "^2.6.0"
     pify "^5.0.0"
-    request "^2.72.0"
     yargs "^15.0.1"
 
 alphanum-sort@^1.0.0:
@@ -9814,7 +9814,7 @@ request-promise-native@^1.0.7, request-promise-native@^1.0.8:
     stealthy-require "^1.1.1"
     tough-cookie "^2.3.3"
 
-request@^2.72.0, request@^2.88.0:
+request@^2.88.0:
   version "2.88.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
   integrity sha512-NAqBSrijGLZdM0WZNsInLJpkJokL72XYjUpnB0iwsRgxh7dB6COrHnTBNwN0E+lHDAJzu7kLAkDeY08z2/A0hg==
