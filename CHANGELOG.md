@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [1.2.0](https://github.com/nuxt-community/dayjs-module/compare/v1.1.12...v1.2.0) (2020-09-19)
 
+### Features
+
+* :sparkles: Add plugin support by @bvelastegui #208
 
 ### Document Changes
 
