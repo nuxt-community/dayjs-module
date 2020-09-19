@@ -34,7 +34,8 @@ export default {
   // Optional
   dayjs: {
     locales: ['en', 'ja'],
-    defaultLocale: 'en'
+    defaultLocale: 'en',
+    plugins: [] // Your Day.js plugin
   }
   // ...
 }
