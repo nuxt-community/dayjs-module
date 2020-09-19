@@ -1,6 +1,6 @@
 {
-  "projectName": "@nuxtjs/dayjs",
-  "projectOwner": "potato4d",
+  "projectName": "dayjs-module",
+  "projectOwner": "nuxt-community",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -22,7 +22,17 @@
         "question",
         "review"
       ]
+    },
+    {
+      "login": "bvelastegui",
+      "name": "Bryan Daniel Velastegui Lucero",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16880910?v=4",
+      "profile": "https://github.com/bvelastegui",
+      "contributions": [
+        "code"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
