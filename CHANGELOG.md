@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.11](https://github.com/nuxt-community/dayjs-module/compare/v1.1.10...v1.1.11) (2020-09-19)
+
+
+### Chores
+
+* Grouping deps update ([29f822e](https://github.com/nuxt-community/dayjs-module/commit/29f822e93afe22350b9ed4cfeb29c9a79943935c))
+* **deps:** bump bl from 4.0.2 to 4.0.3 ([8c34863](https://github.com/nuxt-community/dayjs-module/commit/8c34863a1b784b1483f95d09a52925b4a00962d0))
+* **deps:** bump lodash from 4.17.15 to 4.17.19 ([8d15aa9](https://github.com/nuxt-community/dayjs-module/commit/8d15aa92240cd493b1de19ca6a061412074c99f9))
+* **deps:** bump node-fetch from 2.6.0 to 2.6.1 ([25f6803](https://github.com/nuxt-community/dayjs-module/commit/25f6803a606d6950c09b4c1755a96fd3e3c9be45))
+* **deps:** update dependency all-contributors-cli to v6.17.3 ([7a79d7d](https://github.com/nuxt-community/dayjs-module/commit/7a79d7d85ac721bd1d6eee43f467fce31e9dcd55))
+* **deps:** update dependency prettier to v2.1.2 ([152f6cf](https://github.com/nuxt-community/dayjs-module/commit/152f6cf2d3355800d0219c95e466dfc778e6bdc8))
+* **deps:** update dependency standard-version to v9 ([7d827ae](https://github.com/nuxt-community/dayjs-module/commit/7d827aedbceca94d8340915db42106e5e0f75d13))
+* **deps:** update dependency typescript to v4 ([5930edd](https://github.com/nuxt-community/dayjs-module/commit/5930edd0425a7b0c48f32a0050b82725bd1e2119))
+
+
+### Refactoring
+
+* Remove cheerio from dependencies ()[#220](https://github.com/nuxt-community/dayjs-module/issues/220)) ([eaad163](https://github.com/nuxt-community/dayjs-module/commit/eaad163ed5db645ebe52c766c57cc97e2c16a464))
+* Remove cheerio from dependencies ([#220](https://github.com/nuxt-community/dayjs-module/issues/220)) ([87718d2](https://github.com/nuxt-community/dayjs-module/commit/87718d232cd66aba8098931108840facc7a3593d))
+
 ### [1.1.10](https://github.com/nuxt-community/dayjs-module/compare/v1.1.9...v1.1.10) (2020-09-19)
 
 
