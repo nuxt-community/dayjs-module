@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.12](https://github.com/nuxt-community/dayjs-module/compare/v1.1.11...v1.1.12) (2020-09-19)
+
+
+### Chores
+
+* **deps:** update minor dependencies ([e0e85ae](https://github.com/nuxt-community/dayjs-module/commit/e0e85ae0d36c460c124364d6f442d45b8a469e40))
+
 ### [1.1.11](https://github.com/nuxt-community/dayjs-module/compare/v1.1.10...v1.1.11) (2020-09-19)
 
 
