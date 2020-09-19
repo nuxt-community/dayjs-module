@@ -3,5 +3,8 @@
   "schedule": ["every weekend"],
   "patch": {
     "automerge": true
+  },
+  "minor": {
+    "groupName": "minor dependencies"
   }
 }
