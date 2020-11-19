@@ -2,6 +2,35 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/nuxt-community/dayjs-module/compare/v1.2.0...v1.2.1) (2020-11-19)
+
+
+### Chores
+
+* **deps:** update circleci/node docker tag to v10.23.0 ([4a6de22](https://github.com/nuxt-community/dayjs-module/commit/4a6de22571b7704fee8aa4e5e7a467dbb94cb206))
+* **deps:** update dependency @types/jsdom to v16.2.5 ([10271c9](https://github.com/nuxt-community/dayjs-module/commit/10271c9c474f454b1555a0f1c5cb544ff9d0d3ef))
+* **deps:** update dependency @types/node to v10.17.39 ([3a70863](https://github.com/nuxt-community/dayjs-module/commit/3a7086383f2abba74efef3f9758fde53571f5bf1))
+* **deps:** update dependency @types/node to v10.17.40 ([acdce77](https://github.com/nuxt-community/dayjs-module/commit/acdce77685659bc258ef091ada6fc197fb157c58))
+* **deps:** update dependency @types/node to v10.17.42 ([23c4457](https://github.com/nuxt-community/dayjs-module/commit/23c44572487dd3a024168465ed2b49968fbf5579))
+* **deps:** update dependency @types/node to v10.17.44 ([c755e2d](https://github.com/nuxt-community/dayjs-module/commit/c755e2d30a01eb297aaeb7b5fe27cde51b295823))
+* **deps:** update dependency @types/puppeteer to v3.0.3 ([8c199df](https://github.com/nuxt-community/dayjs-module/commit/8c199df757d5069e23d334b22e44e17e08ca8873))
+* **deps:** update dependency @types/puppeteer to v3.0.4 ([b20f5ee](https://github.com/nuxt-community/dayjs-module/commit/b20f5ee075b4fe9633e0fefa0e2eb3715ffe0f22))
+* **deps:** update dependency @types/puppeteer to v3.0.5 ([6836d41](https://github.com/nuxt-community/dayjs-module/commit/6836d41557952ceb1ae5eda55af711c314aa9225))
+* **deps:** update dependency @types/puppeteer to v5 ([9782207](https://github.com/nuxt-community/dayjs-module/commit/9782207a7f848e8b4e327c8608236ed74a1de74f))
+* **deps:** update dependency all-contributors-cli to v6.17.4 ([b7094ee](https://github.com/nuxt-community/dayjs-module/commit/b7094ee3b7fc9abc369799ab269f89ba8055c6cf))
+* **deps:** update dependency all-contributors-cli to v6.18.0 ([2944193](https://github.com/nuxt-community/dayjs-module/commit/294419353108656f7ba326d470f66c3eef59d0b4))
+* **deps:** update dependency codecov to v3.8.1 ([4f52d2b](https://github.com/nuxt-community/dayjs-module/commit/4f52d2b09ae5bd7a43ad4d1d71e74dad9d55d3bf))
+* **deps:** update dependency puppeteer to v5.3.1 ([b518922](https://github.com/nuxt-community/dayjs-module/commit/b5189221fe4d8da5277d88295b1a225e03eedcdf))
+* **deps:** update dependency ts-jest to v26.4.0 ([5060a98](https://github.com/nuxt-community/dayjs-module/commit/5060a98de104b1c8f06917b6c7f50a34c936120e))
+* **deps:** update dependency ts-jest to v26.4.1 ([e85dddd](https://github.com/nuxt-community/dayjs-module/commit/e85dddd775be2730b6f15177ace5063f22d7c897))
+* **deps:** update dependency ts-jest to v26.4.2 ([e7509ad](https://github.com/nuxt-community/dayjs-module/commit/e7509ad640366f5d7636432bfbed2812424e1e9b))
+* **deps:** update dependency ts-jest to v26.4.3 ([02accd1](https://github.com/nuxt-community/dayjs-module/commit/02accd19f806dd35f48065c1972394a2daf242ea))
+* **deps:** update dependency ts-jest to v26.4.4 ([2a2cc0d](https://github.com/nuxt-community/dayjs-module/commit/2a2cc0dae67b31bb5062aeaf16af1fe0d96c1bab))
+* **deps:** update dependency typescript to v4.0.5 ([a2dfdf3](https://github.com/nuxt-community/dayjs-module/commit/a2dfdf33142e2202f15fc5e1cc9b2cad2f06086d))
+* **deps:** update minor dependencies ([c116e65](https://github.com/nuxt-community/dayjs-module/commit/c116e65dc3485311d326146ba8205e3bc0cb6930))
+* **deps:** update nuxtjs monorepo to v2.14.6 ([dcd2502](https://github.com/nuxt-community/dayjs-module/commit/dcd25021def31567a1347bf0b03ab6b2cb704f55))
+* **deps:** update nuxtjs monorepo to v2.14.7 ([5482eef](https://github.com/nuxt-community/dayjs-module/commit/5482eef6346cf0f94b9703b09b62b1840bd7d935))
+
 ## [1.2.0](https://github.com/nuxt-community/dayjs-module/compare/v1.1.12...v1.2.0) (2020-09-19)
 
 ### Features
