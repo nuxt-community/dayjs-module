@@ -6,6 +6,6 @@ module.exports = {
     { type: 'chore', section: 'Chores', hidden: false },
     { type: 'docs', section: 'Document Changes', hidden: false },
     { type: 'refactor', section: 'Refactoring', hidden: false },
-    { type: 'test', section: 'Test Improve', hidden: false }
-  ]
+    { type: 'test', section: 'Test Improve', hidden: false },
+  ],
 }

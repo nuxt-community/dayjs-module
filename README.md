@@ -35,7 +35,9 @@ export default {
   dayjs: {
     locales: ['en', 'ja'],
     defaultLocale: 'en',
-    plugins: [] // Your Day.js plugin
+    plugins: [
+      'utc' // import 'dayjs/plugin/utc'
+    ] // Your Day.js plugin
   }
   // ...
 }

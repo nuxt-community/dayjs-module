@@ -7,6 +7,6 @@ module.exports = {
   dev: process.env.NODE_ENV !== 'test' && process.env.NODE_ENV === 'production',
   dayjs: {
     locales: ['ja'],
-    plugins: ['advancedFormat', 'localizedFormat']
-  }
+    plugins: ['advancedFormat', 'localizedFormat'],
+  },
 }
