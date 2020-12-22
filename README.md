@@ -35,6 +35,7 @@ export default {
   dayjs: {
     locales: ['en', 'ja'],
     defaultLocale: 'en',
+    defaultTimeZone: 'Asia/Taipei',
     plugins: [
       'utc' // import 'dayjs/plugin/utc'
     ] // Your Day.js plugin
