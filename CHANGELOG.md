@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/nuxt-community/dayjs-module/compare/v1.2.1...v1.3.0) (2020-12-22)
+
+
+### Features
+
+* add default time zone setting ([d23adfb](https://github.com/nuxt-community/dayjs-module/commit/d23adfbfffc23fa3b72d13ce80322c098d76c82a))
+
+
+### Chores
+
+* **deps:** update dependency @types/node to v10.17.46 ([8622cee](https://github.com/nuxt-community/dayjs-module/commit/8622ceeaf7b74a2bda6b248cebf60e082d000595))
+* **deps:** update dependency @types/node to v10.17.47 ([beb403d](https://github.com/nuxt-community/dayjs-module/commit/beb403d25d0e9005b48ec4a03a58fea30d220f73))
+* **deps:** update dependency @types/node to v10.17.48 ([afa6a09](https://github.com/nuxt-community/dayjs-module/commit/afa6a09c047f534d8651336a7d0bb21d6c1caccc))
+* **deps:** update dependency @types/node to v10.17.49 ([4a70414](https://github.com/nuxt-community/dayjs-module/commit/4a704140d8e668bcfae82ef4a72b7d3c2c75b388))
+* **deps:** update dependency @types/puppeteer to v5.4.1 ([18ad02d](https://github.com/nuxt-community/dayjs-module/commit/18ad02d1e90ae832738325f3b85ae63dfa041c5a))
+* **deps:** update dependency @types/puppeteer to v5.4.2 ([df0d9ff](https://github.com/nuxt-community/dayjs-module/commit/df0d9ff37aea7d7c1c43e9cb7bdc2c0ef2faca7c))
+* **deps:** update dependency prettier to v2.2.1 ([d1170d5](https://github.com/nuxt-community/dayjs-module/commit/d1170d5529f2aec7787a537be626b5a218808abb))
+* **deps:** update dependency typescript to v4.1.3 ([822ca24](https://github.com/nuxt-community/dayjs-module/commit/822ca24689e78f04d4533382cf686d4128a90f68))
+* **deps:** update minor dependencies ([987366b](https://github.com/nuxt-community/dayjs-module/commit/987366b696af54bd9a1a4eb36dfc2665e0cdc4c3))
+* **deps:** update nuxtjs monorepo to v2.14.11 ([a10f5a5](https://github.com/nuxt-community/dayjs-module/commit/a10f5a54483966613f336fa386cf66702ac54618))
+* **deps:** update nuxtjs monorepo to v2.14.12 ([e511f6d](https://github.com/nuxt-community/dayjs-module/commit/e511f6df3de2b16c97c8ddd3d78c6b6655aa1828))
+* **deps:** update nuxtjs monorepo to v2.14.9 ([b2e6d37](https://github.com/nuxt-community/dayjs-module/commit/b2e6d3718244f53bd6cc34bc620e7d1b7edcb48a))
+
 ### [1.2.1](https://github.com/nuxt-community/dayjs-module/compare/v1.2.0...v1.2.1) (2020-11-19)
 
 
