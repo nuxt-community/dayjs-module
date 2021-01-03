@@ -40,6 +40,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kazuemon",
+      "name": "かずえもん",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12812934?v=4",
+      "profile": "https://kazuemon.me",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
