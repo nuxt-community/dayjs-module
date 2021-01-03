@@ -122,14 +122,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://potato4d.me"><img src="https://github.com/potato4d.png" width="100px;" alt=""/><br /><sub><b>Takuma HANATANI(@potato4d)</b></sub></a><br /><a href="https://github.com/nuxt-community/dayjs-module/commits?author=potato4d" title="Code">💻</a> <a href="https://github.com/nuxt-community/dayjs-module/issues?q=author%3Apotato4d" title="Bug reports">🐛</a> <a href="https://github.com/nuxt-community/dayjs-module/commits?author=potato4d" title="Documentation">📖</a> <a href="#example-potato4d" title="Examples">💡</a> <a href="#question-potato4d" title="Answering Questions">💬</a> <a href="https://github.com/nuxt-community/dayjs-module/pulls?q=is%3Apr+reviewed-by%3Apotato4d" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/bvelastegui"><img src="https://avatars2.githubusercontent.com/u/16880910?v=4" width="100px;" alt=""/><br /><sub><b>Bryan Daniel Velastegui Lucero</b></sub></a><br /><a href="https://github.com/nuxt-community/dayjs-module/commits?author=bvelastegui" title="Code">💻</a></td>
-    <td align="center"><a href="http://resume.a-wei.tw"><img src="https://avatars0.githubusercontent.com/u/19729705?v=4" width="100px;" alt=""/><br /><sub><b>Wei</b></sub></a><br /><a href="https://github.com/nuxt-community/dayjs-module/commits?author=a65162" title="Code">💻</a></td>
+    <td align="center"><a href="https://potato4d.me"><img src="https://github.com/potato4d.png?s=100" width="100px;" alt=""/><br /><sub><b>Takuma HANATANI(@potato4d)</b></sub></a><br /><a href="https://github.com/nuxt-community/dayjs-module/commits?author=potato4d" title="Code">💻</a> <a href="https://github.com/nuxt-community/dayjs-module/issues?q=author%3Apotato4d" title="Bug reports">🐛</a> <a href="https://github.com/nuxt-community/dayjs-module/commits?author=potato4d" title="Documentation">📖</a> <a href="#example-potato4d" title="Examples">💡</a> <a href="#question-potato4d" title="Answering Questions">💬</a> <a href="https://github.com/nuxt-community/dayjs-module/pulls?q=is%3Apr+reviewed-by%3Apotato4d" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/bvelastegui"><img src="https://avatars2.githubusercontent.com/u/16880910?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bryan Daniel Velastegui Lucero</b></sub></a><br /><a href="https://github.com/nuxt-community/dayjs-module/commits?author=bvelastegui" title="Code">💻</a></td>
+    <td align="center"><a href="http://resume.a-wei.tw"><img src="https://avatars0.githubusercontent.com/u/19729705?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wei</b></sub></a><br /><a href="https://github.com/nuxt-community/dayjs-module/commits?author=a65162" title="Code">💻</a></td>
+    <td align="center"><a href="https://kazuemon.me"><img src="https://avatars1.githubusercontent.com/u/12812934?v=4?s=100" width="100px;" alt=""/><br /><sub><b>かずえもん</b></sub></a><br /><a href="https://github.com/nuxt-community/dayjs-module/commits?author=kazuemon" title="Documentation">📖</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
