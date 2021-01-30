@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/node:10.23.1-browsers
+      - image: circleci/node:10.23.2-browsers
 
     working_directory: ~/app
 
