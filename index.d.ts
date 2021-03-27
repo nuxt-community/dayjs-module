@@ -25,3 +25,9 @@ declare module 'vue/types/vue' {
     $dayjs: typeof dayjs
   }
 }
+
+declare module 'vuex/types/index' {
+  interface Store<S> {
+    $dayjs: typeof dayjs
+  }
+}
