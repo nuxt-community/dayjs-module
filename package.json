@@ -25,8 +25,8 @@
     "@nuxtjs/module-test-utils": "1.6.3",
     "@types/consola": "1.0.0",
     "@types/jest": "25.2.3",
-    "@types/jsdom": "16.2.6",
-    "@types/node": "10.17.54",
+    "@types/jsdom": "16.2.9",
+    "@types/node": "10.17.56",
     "@types/puppeteer": "5.4.3",
     "all-contributors-cli": "6.20.0",
     "codecov": "3.8.1",
@@ -35,8 +35,8 @@
     "prettier": "2.2.1",
     "puppeteer": "5.5.0",
     "standard-version": "9.1.1",
-    "ts-jest": "26.5.3",
-    "typescript": "4.2.2"
+    "ts-jest": "26.5.4",
+    "typescript": "4.2.3"
   },
   "jest": {
     "testEnvironment": "node",
