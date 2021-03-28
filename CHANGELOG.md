@@ -2,6 +2,47 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/nuxt-community/dayjs-module/compare/v1.3.0...v1.3.1) (2021-03-28)
+
+
+### Bug Fixes
+
+* add types for vuex store ([873530e](https://github.com/nuxt-community/dayjs-module/commit/873530ef2c6b525506958893dec7a80d6f4f61ac))
+
+
+### Document Changes
+
+* update .all-contributorsrc [skip ci] ([7a9d3cf](https://github.com/nuxt-community/dayjs-module/commit/7a9d3cf2b256c7ba330c071996678b96347b79e5))
+* update .all-contributorsrc [skip ci] ([4f65c5a](https://github.com/nuxt-community/dayjs-module/commit/4f65c5aa1ce4aa6862a7f18f89c92a0eaa5a3d92))
+* update README.md [skip ci] ([eae3f43](https://github.com/nuxt-community/dayjs-module/commit/eae3f43fda50e9d3451a21b9ad3155441ac8bf29))
+* update README.md [skip ci] ([5400dbd](https://github.com/nuxt-community/dayjs-module/commit/5400dbdb22e38d13ff06973203afe677e0b07441))
+
+
+### Chores
+
+* Update dayjs ([683c9ca](https://github.com/nuxt-community/dayjs-module/commit/683c9ca104f4ba9a9f848f1fde0942fe2a4c15ff))
+* **deps:** bump ini from 1.3.5 to 1.3.7 ([6267716](https://github.com/nuxt-community/dayjs-module/commit/62677164ea21e9a0b5c2887b1dce7d3b68285a14))
+* **deps:** update circleci/node docker tag to v10.23.1 ([4f162ae](https://github.com/nuxt-community/dayjs-module/commit/4f162ae557f68732437bd4d906caa2e9ff0f02c3))
+* **deps:** update circleci/node docker tag to v10.23.2 ([3679d08](https://github.com/nuxt-community/dayjs-module/commit/3679d08fcaa0b71105fbc954eefd09aab74cb0a9))
+* **deps:** update circleci/node docker tag to v10.23.3 ([19949e5](https://github.com/nuxt-community/dayjs-module/commit/19949e5f146bae6abfd1a7d460260a910533eedd))
+* **deps:** update circleci/node docker tag to v10.24.0 ([b2c30a8](https://github.com/nuxt-community/dayjs-module/commit/b2c30a8e55d1c48b4810b934a6fb61795345b977))
+* **deps:** update dependency @types/jsdom to v16.2.6 ([ebbeef1](https://github.com/nuxt-community/dayjs-module/commit/ebbeef1a6fa1fe7e16a5a5684a31cb790378d5b7))
+* **deps:** update dependency @types/node to v10.17.50 ([03f89e4](https://github.com/nuxt-community/dayjs-module/commit/03f89e4626a157831133a072a677f48754993c11))
+* **deps:** update dependency @types/node to v10.17.51 ([d3a16c5](https://github.com/nuxt-community/dayjs-module/commit/d3a16c5df6cc6b0595bec1f2151c1f4ebad85b65))
+* **deps:** update dependency @types/node to v10.17.52 ([42570b0](https://github.com/nuxt-community/dayjs-module/commit/42570b0591a963d1e70e86aa70291f2a7ce6df09))
+* **deps:** update dependency @types/puppeteer to v5.4.3 ([4aa8c3a](https://github.com/nuxt-community/dayjs-module/commit/4aa8c3acf8afcd68ff7ae04cadd7e1f50ccdc53d))
+* **deps:** update dependency standard-version to v9.1.0 ([c4db6a2](https://github.com/nuxt-community/dayjs-module/commit/c4db6a2b0032f3be96b420939f3aba561e98c909))
+* **deps:** update dependency ts-jest to v26.5.0 ([#279](https://github.com/nuxt-community/dayjs-module/issues/279)) ([e0d9c4c](https://github.com/nuxt-community/dayjs-module/commit/e0d9c4c44b0779fb588e8e2d003d3e16c569477b))
+* **deps:** update dependency ts-jest to v26.5.1 ([c3dce85](https://github.com/nuxt-community/dayjs-module/commit/c3dce85bb72a228bd759130908dc13705c9cb57d))
+* **deps:** update dependency typescript to v4.1.5 ([bef9a2f](https://github.com/nuxt-community/dayjs-module/commit/bef9a2f79859b82ee57ddfa842accee2ad17ea07))
+* **deps:** update minor dependencies ([3e4b3ab](https://github.com/nuxt-community/dayjs-module/commit/3e4b3aba7076a356c373278992751406704398e8))
+* **deps:** update minor dependencies ([bf294d0](https://github.com/nuxt-community/dayjs-module/commit/bf294d0e484c12034d49eb6487838c527ef6e65c))
+* **deps:** update minor dependencies ([676da9d](https://github.com/nuxt-community/dayjs-module/commit/676da9da84810d3d3188ae1ace09b0886aad1404))
+* **deps:** update nuxtjs monorepo to v2.15.1 ([ddd4af2](https://github.com/nuxt-community/dayjs-module/commit/ddd4af200eeb122b5edd6f3c9e4a631741a50bbf))
+* **deps:** update nuxtjs monorepo to v2.15.2 ([fcfd818](https://github.com/nuxt-community/dayjs-module/commit/fcfd818f0c00e29f4c9f8fbc6f416daaed657d6d))
+* **deps:** update nuxtjs monorepo to v2.15.3 ([0fc9b7b](https://github.com/nuxt-community/dayjs-module/commit/0fc9b7b93b77180a3ab5afa9baa32ceda0b53733))
+* Change default timezone in readme ([df7218e](https://github.com/nuxt-community/dayjs-module/commit/df7218ef430f46bd3239650ebdeb358a806983e4))
+
 ## [1.3.0](https://github.com/nuxt-community/dayjs-module/compare/v1.2.1...v1.3.0) (2020-12-22)
 
 
