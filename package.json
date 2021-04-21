@@ -1,6 +1,6 @@
 {
   "name": "@nuxtjs/dayjs",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "description": "The best way for use Day.js easily in your Nuxt.js project.",
   "author": {
     "name": "Takuma HANATANI(potato4d)"

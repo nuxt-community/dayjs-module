@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/nuxt-community/dayjs-module/compare/v1.3.1...v1.4.0) (2021-04-21)
+
+
+### Bug Fixes
+
+* remove dynamic require for better `vite` support ([4ca06ac](https://github.com/nuxt-community/dayjs-module/commit/4ca06acdcf04bac3d74d9c2697d87733736e10c5))
+
+
+### Document Changes
+
+* update .all-contributorsrc [skip ci] ([37064f4](https://github.com/nuxt-community/dayjs-module/commit/37064f447a0c2f06ce17ffaaca931189919927d2))
+* update README.md [skip ci] ([2e8a10e](https://github.com/nuxt-community/dayjs-module/commit/2e8a10eb4d2088e346b8c5fc7f604357ffb23ca7))
+
 ### [1.3.1](https://github.com/nuxt-community/dayjs-module/compare/v1.3.0...v1.3.1) (2021-03-28)
 
 
