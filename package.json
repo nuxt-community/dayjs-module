@@ -25,7 +25,7 @@
     "@nuxtjs/module-test-utils": "1.6.3",
     "@types/consola": "1.0.0",
     "@types/jest": "25.2.3",
-    "@types/jsdom": "16.2.11",
+    "@types/jsdom": "16.2.12",
     "@types/node": "14.17.3",
     "@types/puppeteer": "5.4.3",
     "all-contributors-cli": "6.20.0",
