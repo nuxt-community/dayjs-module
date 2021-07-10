@@ -30,12 +30,12 @@
     "@types/puppeteer": "5.4.4",
     "all-contributors-cli": "6.20.0",
     "codecov": "3.8.2",
-    "jest": "25.5.4",
+    "jest": "27.0.6",
     "nuxt": "2.15.7",
     "prettier": "2.3.2",
     "puppeteer": "5.5.0",
     "standard-version": "9.3.0",
-    "ts-jest": "26.5.6",
+    "ts-jest": "27.0.3",
     "typescript": "4.3.5"
   },
   "jest": {
