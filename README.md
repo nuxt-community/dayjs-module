@@ -84,6 +84,8 @@ export default {
 
 Add the types to your `"types"` array in `tsconfig.json` after the `@nuxt/types` entry.
 
+For dayjs plugins, add their relative types like `dayjs/plugin/_pluginName_`.
+
 #### tsconfig.json
 
 ```json
@@ -91,7 +93,8 @@ Add the types to your `"types"` array in `tsconfig.json` after the `@nuxt/types`
   "compilerOptions": {
     "types": [
       "@nuxt/types",
-      "@nuxtjs/dayjs"
+      "@nuxtjs/dayjs",
+      "dayjs/plugin/relativeTime",
     ]
   }
 }
