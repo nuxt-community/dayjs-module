@@ -30,7 +30,7 @@
     "@types/puppeteer": "5.4.4",
     "all-contributors-cli": "6.20.0",
     "codecov": "3.8.3",
-    "jest": "27.4.5",
+    "jest": "27.4.7",
     "nuxt": "2.15.8",
     "prettier": "2.4.1",
     "puppeteer": "13.0.1",
