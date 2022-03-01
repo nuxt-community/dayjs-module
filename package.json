@@ -1,19 +1,21 @@
 {
   "name": "@nuxtjs/dayjs",
-  "version": "1.4.1",
-  "description": "The best way for use Day.js easily in your Nuxt.js project.",
-  "author": {
-    "name": "Takuma HANATANI(potato4d)"
-  },
-  "keywords": [
-    "vue",
-    "nuxt",
-    "nuxt.js"
-  ],
-  "main": "lib/module.js",
-  "types": "index.d.ts",
+  "version": "2.0.0",
   "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./dist/module.mjs",
+      "require": "./dist/module.cjs"
+    }
+  },
+  "main": "./dist/module.cjs",
+  "types": "./dist/types.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
+<<<<<<< Updated upstream
     "dev": "nuxt test/fixture",
     "test": "NODE_ENV=test jest",
     "test:system": "NODE_ENV=test jest --testRegex \"/test/system/(.+)\\.test\\.js$\"",
@@ -43,9 +45,25 @@
     "collectCoverageFrom": [
       "lib/**/*.{js,jsx}"
     ]
+=======
+    "prepack": "nuxt-module-build",
+    "dev": "nuxi dev playground",
+    "dev:build": "nuxi build playground",
+    "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+>>>>>>> Stashed changes
   },
   "dependencies": {
-    "consola": "^2.10.1",
-    "dayjs": "^1.10.4"
+    "@nuxt/kit": "npm:@nuxt/kit-edge@latest",
+    "consola": "^2.15.3",
+    "dayjs": "^1.10.7",
+    "pathe": "^0.2.0"
+  },
+  "devDependencies": {
+    "@nuxt/module-builder": "latest",
+    "@nuxtjs/eslint-config-typescript": "latest",
+    "eslint": "latest",
+    "nuxt3": "latest"
   }
 }
