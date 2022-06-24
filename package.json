@@ -13,6 +13,7 @@
   "main": "lib/module.js",
   "types": "index.d.ts",
   "license": "MIT",
+  "repository": "https://github.com/nuxt-community/dayjs-module",
   "scripts": {
     "dev": "nuxt test/fixture",
     "test": "NODE_ENV=test jest",
