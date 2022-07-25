@@ -1,52 +1,49 @@
 {
-  "name": "@nuxtjs/dayjs",
-  "version": "1.4.1",
-  "description": "The best way for use Day.js easily in your Nuxt.js project.",
-  "author": {
-    "name": "Takuma HANATANI(potato4d)"
-  },
+  "name": "@nathanchase/nuxt-dayjs-module",
+  "version": "1.0.7",
+  "private": false,
+  "description": "This is a Nuxt 3 compatible module built with the official Nuxt 3 (module-builder)(https://github.com/nuxt/module-builder) for (dayjs)(https://github.com/iamkun/dayjs/).",
   "keywords": [
-    "vue",
+    "dayjs",
     "nuxt",
-    "nuxt.js"
+    "nuxt3"
   ],
-  "main": "lib/module.js",
-  "types": "index.d.ts",
+  "homepage": "https://github.com/nathanchase/dayjs#readme",
+  "bugs": {
+    "url": "https://github.com/nathanchase/dayjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanchase/dayjs.git"
+  },
   "license": "MIT",
-  "repository": "https://github.com/nuxt-community/dayjs-module",
+  "author": "Nathan Chase",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./dist/module.mjs",
+      "require": "./dist/module.cjs"
+    }
+  },
+  "main": "./dist/module.cjs",
+  "types": "./dist/types.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "dev": "nuxt test/fixture",
-    "test": "NODE_ENV=test jest",
-    "test:system": "NODE_ENV=test jest --testRegex \"/test/system/(.+)\\.test\\.js$\"",
-    "test:coverage": "NODE_ENV=test yarn test --coverage",
-    "format": "prettier './**/*.{js,ts,json,vue}' --write"
-  },
-  "devDependencies": {
-    "@nuxt/types": "2.15.8",
-    "@nuxtjs/module-test-utils": "1.6.3",
-    "@types/consola": "1.0.0",
-    "@types/jest": "27.5.2",
-    "@types/jsdom": "16.2.15",
-    "@types/node": "16.11.45",
-    "@types/puppeteer": "5.4.6",
-    "all-contributors-cli": "6.20.0",
-    "codecov": "3.8.3",
-    "jest": "27.5.1",
-    "nuxt": "2.15.8",
-    "prettier": "2.7.1",
-    "puppeteer": "15.5.0",
-    "standard-version": "9.5.0",
-    "ts-jest": "27.1.5",
-    "typescript": "4.7.4"
-  },
-  "jest": {
-    "testEnvironment": "node",
-    "collectCoverageFrom": [
-      "lib/**/*.{js,jsx}"
-    ]
+    "dev": "nuxi dev playground",
+    "dev:build": "nuxi build playground",
+    "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground",
+    "prepack": "nuxt-module-build"
   },
   "dependencies": {
-    "consola": "^2.10.1",
-    "dayjs": "^1.10.4"
+    "@nuxt/kit": "^3.0.0-rc.6",
+    "dayjs": "^1.11.4"
+  },
+  "devDependencies": {
+    "@nuxt/module-builder": "latest",
+    "@nuxtjs/eslint-config-typescript": "latest",
+    "eslint": "latest",
+    "nuxt": "^3.0.0-rc.6"
   }
 }
