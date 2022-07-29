@@ -1,23 +1,15 @@
 {
-  "name": "@nathanchase/nuxt-dayjs-module",
-  "version": "1.0.7",
-  "private": false,
-  "description": "This is a Nuxt 3 compatible module built with the official Nuxt 3 (module-builder)(https://github.com/nuxt/module-builder) for (dayjs)(https://github.com/iamkun/dayjs/).",
+  "name": "@nuxtjs/dayjs",
+  "version": "3.0.0",
+  "description": "The best way for use Day.js easily in your Nuxt.js project.",
+  "author": {
+    "name": "Takuma HANATANI(potato4d)"
+  },
   "keywords": [
-    "dayjs",
+    "vue",
     "nuxt",
-    "nuxt3"
+    "nuxt.js"
   ],
-  "homepage": "https://github.com/nathanchase/dayjs#readme",
-  "bugs": {
-    "url": "https://github.com/nathanchase/dayjs/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nathanchase/dayjs.git"
-  },
-  "license": "MIT",
-  "author": "Nathan Chase",
   "type": "module",
   "exports": {
     ".": {
@@ -34,13 +26,33 @@
     "dev": "nuxi dev playground",
     "dev:build": "nuxi build playground",
     "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground",
-    "prepack": "nuxt-module-build"
+    "prepack": "nuxt-module-build",
+    "test": "NODE_ENV=test jest",
+    "test:system": "NODE_ENV=test jest --testRegex \"/test/system/(.+)\\.test\\.js$\"",
+    "test:coverage": "NODE_ENV=test yarn test --coverage",
+    "format": "prettier './**/*.{js,ts,json,vue}' --write"
   },
   "dependencies": {
     "@nuxt/kit": "^3.0.0-rc.6",
+    "consola": "^2.10.1",
     "dayjs": "^1.11.4"
   },
   "devDependencies": {
+    "@nuxt/types": "2.15.8",
+    "@nuxtjs/module-test-utils": "1.6.3",
+    "@types/consola": "1.0.0",
+    "@types/jest": "27.5.2",
+    "@types/jsdom": "16.2.15",
+    "@types/node": "16.11.45",
+    "@types/puppeteer": "5.4.6",
+    "all-contributors-cli": "6.20.0",
+    "codecov": "3.8.3",
+    "jest": "27.5.1",
+    "prettier": "2.7.1",
+    "puppeteer": "15.5.0",
+    "standard-version": "9.5.0",
+    "ts-jest": "27.1.5",
+    "typescript": "4.7.4",
     "@nuxt/module-builder": "latest",
     "@nuxtjs/eslint-config-typescript": "latest",
     "eslint": "latest",
