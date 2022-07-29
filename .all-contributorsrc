@@ -1,0 +1,65 @@
+{
+  "projectName": "dayjs-module",
+  "projectOwner": "nuxt-community",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "potato4d",
+      "name": "Takuma HANATANI(@potato4d)",
+      "avatar_url": "https://github.com/potato4d.png",
+      "profile": "https://potato4d.me",
+      "contributions": [
+        "code",
+        "bug",
+        "doc",
+        "example",
+        "question",
+        "review"
+      ]
+    },
+    {
+      "login": "bvelastegui",
+      "name": "Bryan Daniel Velastegui Lucero",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16880910?v=4",
+      "profile": "https://github.com/bvelastegui",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "a65162",
+      "name": "Wei",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19729705?v=4",
+      "profile": "http://resume.a-wei.tw",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kazuemon",
+      "name": "かずえもん",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12812934?v=4",
+      "profile": "https://kazuemon.me",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "daikiojm",
+      "name": "Daiki Ojima",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10055293?v=4",
+      "profile": "https://daikiojm.me/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}

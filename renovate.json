@@ -1,0 +1,10 @@
+{
+  "extends": ["config:base"],
+  "schedule": ["every weekend"],
+  "patch": {
+    "automerge": true
+  },
+  "minor": {
+    "groupName": "minor dependencies"
+  }
+}
