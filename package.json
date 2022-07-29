@@ -1,6 +1,6 @@
 {
   "name": "@nuxtjs/dayjs",
-  "version": "1.4.1",
+  "version": "3.0.0",
   "description": "The best way for use Day.js easily in your Nuxt.js project.",
   "author": {
     "name": "Takuma HANATANI(potato4d)"
@@ -10,16 +10,19 @@
     "nuxt",
     "nuxt.js"
   ],
-  "main": "lib/module.js",
-  "types": "index.d.ts",
+  "main": "./dist/module.cjs",
+  "types": "./dist/types.d.ts",
   "license": "MIT",
   "repository": "https://github.com/nuxt-community/dayjs-module",
   "scripts": {
-    "dev": "nuxt test/fixture",
     "test": "NODE_ENV=test jest",
     "test:system": "NODE_ENV=test jest --testRegex \"/test/system/(.+)\\.test\\.js$\"",
     "test:coverage": "NODE_ENV=test yarn test --coverage",
-    "format": "prettier './**/*.{js,ts,json,vue}' --write"
+    "format": "prettier './**/*.{js,ts,json,vue}' --write",
+    "prepack": "nuxt-module-build",
+    "dev": "nuxi dev playground",
+    "dev:build": "nuxi build playground",
+    "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground"
   },
   "devDependencies": {
     "@nuxt/types": "2.15.8",
@@ -32,12 +35,15 @@
     "all-contributors-cli": "6.20.0",
     "codecov": "3.8.3",
     "jest": "27.5.1",
-    "nuxt": "2.15.8",
     "prettier": "2.7.1",
     "puppeteer": "15.5.0",
     "standard-version": "9.5.0",
     "ts-jest": "27.1.5",
-    "typescript": "4.7.4"
+    "typescript": "4.7.4",
+    "@nuxt/module-builder": "latest",
+    "@nuxtjs/eslint-config-typescript": "latest",
+    "eslint": "latest",
+    "nuxt": "^3.0.0-rc.6"
   },
   "jest": {
     "testEnvironment": "node",
@@ -47,6 +53,17 @@
   },
   "dependencies": {
     "consola": "^2.10.1",
-    "dayjs": "^1.10.4"
-  }
+    "dayjs": "^1.10.4",
+    "@nuxt/kit": "^3.0.0-rc.6"
+  },
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./dist/module.mjs",
+      "require": "./dist/module.cjs"
+    }
+  },
+  "files": [
+    "dist"
+  ]
 }
