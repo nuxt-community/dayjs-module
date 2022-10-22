@@ -27,7 +27,7 @@
     "@types/consola": "1.0.0",
     "@types/jest": "27.5.2",
     "@types/jsdom": "16.2.15",
-    "@types/node": "16.11.66",
+    "@types/node": "16.11.68",
     "@types/puppeteer": "5.4.7",
     "all-contributors-cli": "6.20.5",
     "codecov": "3.8.3",
