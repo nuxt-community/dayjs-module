@@ -58,6 +58,24 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "JoaoPedroAS51",
+      "name": "João Pedro Antunes Silva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15177236?v=4",
+      "profile": "https://joaopedroas.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "czepter",
+      "name": "Christian Zepter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34108004?v=4",
+      "profile": "https://czepter.de",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
