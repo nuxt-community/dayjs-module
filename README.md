@@ -8,7 +8,7 @@
 [![NPM downloads](https://img.shields.io/npm/dm/@nuxtjs/dayjs.svg?style=flat)](https://npmjs.com/package/@nuxtjs/dayjs)
 [![codecov](https://codecov.io/gh/nuxt-community/dayjs-module/branch/master/graph/badge.svg)](https://codecov.io/gh/nuxt-community/dayjs-module)
 
-> The best way for use Day.js easily in your Nuxt.js project.
+> The best way to use Day.js easily in your Nuxt 2 project.
 
 <a href="https://patreon.com/potato4d">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50">
