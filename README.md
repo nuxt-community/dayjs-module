@@ -10,6 +10,10 @@
 
 > The best way to use Day.js easily in your Nuxt 2 project.
 
+Looking for a Nuxt 3 alternative? Try out:
+- https://github.com/nathanchase/dayjs
+- https://github.com/fumeapp/dayjs
+
 <a href="https://patreon.com/potato4d">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50">
 </a>
