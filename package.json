@@ -24,7 +24,7 @@
   "devDependencies": {
     "@nuxt/types": "2.15.8",
     "@nuxtjs/module-test-utils": "1.6.3",
-    "@types/consola": "1.0.0",
+    "@types/consola": "2.2.8",
     "@types/jest": "27.5.2",
     "@types/jsdom": "21.1.7",
     "@types/node": "16.18.105",
