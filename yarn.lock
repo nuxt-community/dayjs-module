@@ -3418,10 +3418,10 @@ ajv@^8.0.0, ajv@^8.8.0:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
-all-contributors-cli@6.24.0:
-  version "6.24.0"
-  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-6.24.0.tgz#25c480c5c6e921532873114c2d6487816e6c22e0"
-  integrity sha512-7oSKr2PnqxsOotuSwciltcFTS1eVRdjR0cn99hbElfff7gRQBShVhsf/XBprY41sLcgqTk0l0MKgKv6QNgZdMg==
+all-contributors-cli@6.26.1:
+  version "6.26.1"
+  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-6.26.1.tgz#9f3358c9b9d0a7e66c8f84ffebf5a6432a859cae"
+  integrity sha512-Ymgo3FJACRBEd1eE653FD1J/+uD0kqpUNYfr9zNC1Qby0LgbhDBzB3EF6uvkAbYpycStkk41J+0oo37Lc02yEw==
   dependencies:
     "@babel/runtime" "^7.7.6"
     async "^3.1.0"
@@ -3433,6 +3433,8 @@ all-contributors-cli@6.24.0:
     node-fetch "^2.6.0"
     pify "^5.0.0"
     yargs "^15.0.1"
+  optionalDependencies:
+    prettier "^2"
 
 ansi-align@^3.0.0:
   version "3.0.0"
@@ -10137,7 +10139,7 @@ prepend-http@^1.0.0:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
 
-prettier@2.8.8:
+prettier@2.8.8, prettier@^2:
   version "2.8.8"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.8.tgz#e8c5d7e98a4305ffe3de2e1fc4aca1a71c28b1da"
   integrity sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==
@@ -12162,10 +12164,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@5.0.4:
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.0.4.tgz#b217fd20119bd61a94d4011274e0ab369058da3b"
-  integrity sha512-cW9T5W9xY37cc+jfEnaUvX91foxtHkza3Nw3wkoF4sSlKn0MONdkdEndig/qPBWXNkmplh3NzayQzCiHM4/hqw==
+typescript@5.8.3:
+  version "5.8.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.8.3.tgz#92f8a3e5e3cf497356f4178c34cd65a7f5e8440e"
+  integrity sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==
 
 ua-parser-js@^1.0.34:
   version "1.0.34"
