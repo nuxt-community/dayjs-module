@@ -33,7 +33,7 @@
     "codecov": "3.8.3",
     "jest": "27.5.1",
     "nuxt": "2.16.3",
-    "prettier": "2.8.8",
+    "prettier": "3.6.2",
     "puppeteer": "15.5.0",
     "standard-version": "9.5.0",
     "ts-jest": "27.1.5",
