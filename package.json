@@ -35,7 +35,7 @@
     "nuxt": "2.16.3",
     "prettier": "2.8.8",
     "puppeteer": "15.5.0",
-    "standard-version": "9.5.0",
+    "commit-and-tag-version": "9.5.0",
     "ts-jest": "27.1.5",
     "typescript": "5.0.4"
   },
