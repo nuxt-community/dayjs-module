@@ -22,7 +22,7 @@
     "format": "prettier './**/*.{js,ts,json,vue}' --write"
   },
   "devDependencies": {
-    "@nuxt/types": "2.15.8",
+    "@nuxt/types": "2.18.1",
     "@nuxtjs/module-test-utils": "1.6.3",
     "@types/consola": "1.0.0",
     "@types/jest": "27.5.2",
@@ -32,7 +32,7 @@
     "all-contributors-cli": "6.24.0",
     "codecov": "3.8.3",
     "jest": "27.5.1",
-    "nuxt": "2.16.3",
+    "nuxt": "2.18.1",
     "prettier": "2.8.8",
     "puppeteer": "15.5.0",
     "standard-version": "9.5.0",
