@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is archived. `@nuxtjs/dayjs` was built for Nuxt 2, which reached end of life on June 30, 2024.
+
 # @nuxtjs/dayjs
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
